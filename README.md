@@ -5,9 +5,9 @@
 
 * Bonny Mogollon
 
-*Napoleon Santana
+* Napoleon Santana
 
-*Rebecca Tobias
+* Rebecca Tobias
 
 * Bryan Pulla
 
