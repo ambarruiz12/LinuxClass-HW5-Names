@@ -10,5 +10,6 @@
 * Rebecca Tobias
 
 * Bryan Pulla
+* Alexander Vega
 
 
